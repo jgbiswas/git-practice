@@ -9,3 +9,9 @@ This file contains all the planets
 ## Earth
 
 ## Mars
+
+## Jupiter
+
+## Saturn
+
+## Uranus
